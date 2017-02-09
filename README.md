@@ -6,7 +6,7 @@ MYSQL CRUD example
 ###1. Prerequisites
 To run script you need to have:  
 1. groovy installed  
-2. some rest service running based on mysql db  
+2. some rest service running based on mysql db
 
 ###2. To Run this script
 ```shell
